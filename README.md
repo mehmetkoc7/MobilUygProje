@@ -10,3 +10,6 @@
   Verileri analiz ettik.
   Database üzerinde tablolar oluşturduk.
   Veritabanının genel yapısı üzerinde çalıştık.
+# 22-23.12.2024
+  Veritabanını bitirdik, tüm veriler veritabanına işlendi.
+  Uygulamamız üzerinde toplantı yaptık.
