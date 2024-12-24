@@ -13,3 +13,6 @@
 # 22-23.12.2024
   Veritabanını bitirdik, tüm veriler veritabanına işlendi.
   Uygulamamız üzerinde toplantı yaptık.
+# 24.12.2024
+  Veritabanından veri çekme üzerine çalıştık. 
+  Uygulamamız hakkında toplantı yaptık.
