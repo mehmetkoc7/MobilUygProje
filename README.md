@@ -16,3 +16,5 @@
 # 24.12.2024
   Veritabanından veri çekme üzerine çalıştık. 
   Uygulamamız hakkında toplantı yaptık.
+# 25.12.2024
+  Mobil uygulamamızı react native ile geliştirmeye başladık.
